@@ -2,8 +2,6 @@
 ### This is S-DarkRoom Github!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/S-DarkRoom)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.xxx/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:xxx@gmail.com)
 
 Welcome to my Github page! S-DarkRoom!  
 
